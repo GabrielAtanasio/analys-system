@@ -62,6 +62,10 @@ Siga estes passos para configurar o ambiente de desenvolvimento:
     ```bash
     pip install -r requirements.txt
     ```
+6.  * **Desativar o Ambiente**
+    ```bash
+    deactivate
+    ```
 
 ## Uso
 
@@ -107,32 +111,3 @@ Com o ambiente virtual ativado, você pode executar o analisador léxico.
 ---
 
 _Este README foi gerado para auxiliar na documentação do projeto._
-
-
-# analys-system
-
-
-# No Linux/macOS (pode precisar usar python3 em vez de python)
-python -m venv venv
-# No Linux ou macOS (usando bash ou zsh):
-source venv/bin/activate
-
-
-
-# No Windows
-python -m venv venv
-
-# No Windows (usando Prompt de Comando - cmd.exe):
-venv\Scripts\activate.bat
-# No Windows (usando PowerShell):
-venv\Scripts\Activate.ps1
-
-
-
-# Instale as Dependências
-pip install numpy
-
-
-# Desativar o Ambiente:
-# Quando terminar de trabalhar no projeto naquela sessão do terminal, você pode desativar o ambiente simplesmente digitando:
-deactivate
