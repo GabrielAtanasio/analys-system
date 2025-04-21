@@ -31,8 +31,7 @@ Siga estes passos para configurar o ambiente de desenvolvimento:
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd SEU_REPOSITORIO
-    # Substitua SEU_REPOSITORIO pelo nome da pasta do projeto
+    cd analys-system
     ```
 
 3.  **Crie um ambiente virtual:**
